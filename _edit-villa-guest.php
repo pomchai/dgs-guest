@@ -1,4 +1,5 @@
 <?
+/*aaaa */
 error_reporting( error_reporting() & ~E_NOTICE );
 session_start();
 include "../inc/config.inc.php";
