@@ -5,11 +5,9 @@ error_reporting( error_reporting() & ~E_NOTICE );
 /*aaaaaaaaaaaaa */
 /*bbbbbbbbbbbbb */
 
-/*bbbbbbbbbbbbb */
-/*bbbbbbbbbbbbb */
-
-/*bbbbbbbbbbbbb */
-/*bbbbbbbbbbbbb */
+/*zzzzzzz*/
+/*zzzzzzz*/
+/*zzzzzzz*/
 session_start();
 include "../inc/config.inc.php";
 //echo "$_SESSION[m_login]<br>$_SESSION[m_id]";
