@@ -1,7 +1,7 @@
 <?
-/*ccc */
+/*xxx */
 error_reporting( error_reporting() & ~E_NOTICE );
-/*ddd*/
+/*yyyy*/
 session_start();
 include "../inc/config.inc.php";
 //echo "$_SESSION[m_login]<br>$_SESSION[m_id]";
