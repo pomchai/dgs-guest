@@ -1,6 +1,6 @@
 <?php
 /* TEST */
-/* By Pom */
+/* By Pom 2 */
 error_reporting( error_reporting() & ~E_NOTICE );
 session_start();
 include "inc/config.inc.php";
